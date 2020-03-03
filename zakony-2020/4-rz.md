@@ -1,0 +1,8 @@
+# "Об отдельных вопросах ответственного обращения с животными на территории Карачаево-Черкесской Республики"
+Document type: Закон
+Number: 4-РЗ
+Date signed: 2020-02-28
+Publication date: 2020-03-03
+Publication number: 0900202003030006
+Signing body: Карачаево-Черкесская Республика
+Official publication page: http://publication.pravo.gov.ru/Document/View/0900202003030006
