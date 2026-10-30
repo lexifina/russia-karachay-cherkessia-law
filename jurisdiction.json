@@ -1,0 +1,11 @@
+{
+  "path": "ru-kc",
+  "code": "RU-KC",
+  "name": "Karachay-Cherkess Republic",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-karachay-cherkessia-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
