@@ -1,5 +1,5 @@
 day,kind,law,acts,files,branch
-2015-06-10,start,,zakony-2015,9,main
+2015-06-10,baseline,,zakony-2015,9,main
 2015-06-11,law,portal-2015-06-11,zakony-2015,1,main
 2015-06-26,law,portal-2015-06-26,zakony-2015,1,main
 2015-07-13,law,portal-2015-07-13,zakony-2015,15,main
@@ -14,7 +14,7 @@ day,kind,law,acts,files,branch
 2015-12-23,law,portal-2015-12-23,zakony-2015,16,main
 2015-12-25,law,portal-2015-12-25,zakony-2015,2,main
 2015-12-31,law,portal-2015-12-31,zakony-2015,1,main
-2016-01-04,start,,zakony-2016,2,main
+2016-01-04,baseline,,zakony-2016,2,main
 2016-01-15,law,portal-2016-01-15,zakony-2016,8,main
 2016-01-19,law,portal-2016-01-19,zakony-2016,1,main
 2016-02-26,law,portal-2016-02-26,zakony-2016,4,main
@@ -37,7 +37,7 @@ day,kind,law,acts,files,branch
 2016-12-20,law,portal-2016-12-20,zakony-2016,2,main
 2016-12-27,law,portal-2016-12-27,zakony-2016,9,main
 2016-12-28,law,portal-2016-12-28,zakony-2016,1,main
-2017-01-10,start,,zakony-2017,8,main
+2017-01-10,baseline,,zakony-2017,8,main
 2017-02-22,law,portal-2017-02-22,zakony-2017,1,main
 2017-02-28,law,portal-2017-02-28,zakony-2017,5,main
 2017-05-04,law,portal-2017-05-04,zakony-2017,1,main
@@ -54,7 +54,7 @@ day,kind,law,acts,files,branch
 2017-12-21,law,portal-2017-12-21,zakony-2017,2,main
 2017-12-27,law,portal-2017-12-27,zakony-2017,9,main
 2017-12-29,law,portal-2017-12-29,zakony-2017,5,main
-2018-03-20,start,,zakony-2018,13,main
+2018-03-20,baseline,,zakony-2018,13,main
 2018-05-15,law,portal-2018-05-15,zakony-2018,19,main
 2018-07-30,law,portal-2018-07-30,zakony-2018,19,main
 2018-09-27,law,portal-2018-09-27,zakony-2018,11,main
@@ -64,7 +64,7 @@ day,kind,law,acts,files,branch
 2018-12-07,law,portal-2018-12-07,zakony-2018,5,main
 2018-12-19,law,portal-2018-12-19,zakony-2018,6,main
 2018-12-31,law,portal-2018-12-31,zakony-2018,14,main
-2019-01-04,start,,zakony-2019,1,main
+2019-01-04,baseline,,zakony-2019,1,main
 2019-03-21,law,portal-2019-03-21,zakony-2019,4,main
 2019-04-11,law,portal-2019-04-11,zakony-2019,12,main
 2019-04-29,law,portal-2019-04-29,zakony-2019,5,main
@@ -83,7 +83,7 @@ day,kind,law,acts,files,branch
 2019-12-20,law,portal-2019-12-20,zakony-2019,6,main
 2019-12-23,law,portal-2019-12-23,zakony-2019,4,main
 2019-12-31,law,portal-2019-12-31,zakony-2019,10,main
-2020-01-10,start,,zakony-2020,2,main
+2020-01-10,baseline,,zakony-2020,2,main
 2020-03-03,law,portal-2020-03-03,zakony-2020,8,main
 2020-04-01,law,portal-2020-04-01,zakony-2020,9,main
 2020-04-03,law,portal-2020-04-03,zakony-2020,1,main
@@ -104,7 +104,7 @@ day,kind,law,acts,files,branch
 2020-12-07,law,portal-2020-12-07,zakony-2020,1,main
 2020-12-21,law,portal-2020-12-21,zakony-2020,5,main
 2020-12-29,law,portal-2020-12-29,zakony-2020,15,main
-2021-02-17,start,,zakony-2021,1,main
+2021-02-17,baseline,,zakony-2021,1,main
 2021-02-24,law,portal-2021-02-24,zakony-2021,1,main
 2021-03-30,law,portal-2021-03-30,zakony-2021,7,main
 2021-04-02,law,portal-2021-04-02,zakony-2021,2,main
@@ -123,7 +123,7 @@ day,kind,law,acts,files,branch
 2021-12-27,law,portal-2021-12-27,zakony-2021,4,main
 2021-12-29,law,portal-2021-12-29,zakony-2021,11,main
 2021-12-30,law,portal-2021-12-30,zakony-2021,3,main
-2022-03-14,start,,zakony-2022,6,main
+2022-03-14,baseline,,zakony-2022,6,main
 2022-04-08,law,portal-2022-04-08,zakony-2022,7,main
 2022-04-15,law,portal-2022-04-15,zakony-2022,1,main
 2022-04-26,law,portal-2022-04-26,zakony-2022,9,main
@@ -140,7 +140,7 @@ day,kind,law,acts,files,branch
 2022-12-28,law,portal-2022-12-28,zakony-2022,10,main
 2022-12-29,law,portal-2022-12-29,zakony-2022,1,main
 2022-12-30,law,portal-2022-12-30,zakony-2022,10,main
-2023-02-21,start,,zakony-2023,1,main
+2023-02-21,baseline,,zakony-2023,1,main
 2023-02-28,law,portal-2023-02-28,zakony-2023,7,main
 2023-04-14,law,portal-2023-04-14,zakony-2023,8,main
 2023-06-19,law,portal-2023-06-19,zakony-2023,13,main
@@ -150,7 +150,7 @@ day,kind,law,acts,files,branch
 2023-12-13,law,portal-2023-12-13,zakony-2023,14,main
 2023-12-28,law,portal-2023-12-28,zakony-2023,14,main
 2023-12-30,law,portal-2023-12-30,zakony-2023,12,main
-2024-03-06,start,,zakony-2024,2,main
+2024-03-06,baseline,,zakony-2024,2,main
 2024-03-07,law,portal-2024-03-07,zakony-2024,11,main
 2024-05-15,law,portal-2024-05-15,zakony-2024,12,main
 2024-05-24,law,portal-2024-05-24,zakony-2024,3,main
@@ -166,7 +166,7 @@ day,kind,law,acts,files,branch
 2024-12-13,law,portal-2024-12-13,zakony-2024,9,main
 2024-12-24,law,portal-2024-12-24,zakony-2024,10,main
 2024-12-31,law,portal-2024-12-31,zakony-2024,3,main
-2025-03-11,start,,zakony-2025,13,main
+2025-03-11,baseline,,zakony-2025,13,main
 2025-04-08,law,portal-2025-04-08,zakony-2025,12,main
 2025-05-07,law,portal-2025-05-07,zakony-2025,7,main
 2025-06-11,law,portal-2025-06-11,zakony-2025,1,main
@@ -177,7 +177,7 @@ day,kind,law,acts,files,branch
 2025-11-28,law,portal-2025-11-28,zakony-2025,1,main
 2025-12-10,law,portal-2025-12-10,zakony-2025,11,main
 2025-12-30,law,portal-2025-12-30,zakony-2025,13,main
-2026-03-18,start,,zakony-2026,16,main
+2026-03-18,baseline,,zakony-2026,16,main
 2026-03-24,law,portal-2026-03-24,zakony-2026,4,main
 2026-03-27,law,portal-2026-03-27,zakony-2026,1,main
 2026-05-22,law,portal-2026-05-22,zakony-2026,1,main
@@ -187,3 +187,4 @@ day,kind,law,acts,files,branch
 2026-07-31,law,portal-2026-07-31,zakony-2026,1,main
 2026-08-20,law,portal-2026-08-20,zakony-2026,1,main
 2026-10-30,law,portal-2026-10-30,zakony-2026,4,main
+2026-11-10,law,portal-2026-11-10,zakony-2026,11,main

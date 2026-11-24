@@ -1,6 +1,6 @@
 # Karachay-Cherkess Republic: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 10 versions, from 2026-03-18 (latest in force: 2026-10-30) · <http://publication.pravo.gov.ru/documents/block/region09>
+Законы 2026 · 11 versions, from 2026-03-18 (latest in force: 2026-11-10) · <http://publication.pravo.gov.ru/documents/block/region09>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -61,6 +61,17 @@
 | Закон № 59-РЗ | [59-rz.md](59-rz.md) | 1 | 2026-10-30 |
 | Закон № 6-РЗ | [6-rz.md](6-rz.md) | 0 |  |
 | Закон № 60-РЗ | [60-rz.md](60-rz.md) | 1 | 2026-10-30 |
+| Закон № 61-РЗ | [61-rz.md](61-rz.md) | 1 | 2026-11-10 |
+| Закон № 62-РЗ | [62-rz.md](62-rz.md) | 1 | 2026-11-10 |
+| Закон № 63-РЗ | [63-rz.md](63-rz.md) | 1 | 2026-11-10 |
+| Закон № 64-РЗ | [64-rz.md](64-rz.md) | 1 | 2026-11-10 |
+| Закон № 65-РЗ | [65-rz.md](65-rz.md) | 1 | 2026-11-10 |
+| Закон № 66-РЗ | [66-rz.md](66-rz.md) | 1 | 2026-11-10 |
+| Закон № 67-РЗ | [67-rz.md](67-rz.md) | 1 | 2026-11-10 |
+| Закон № 68-РЗ | [68-rz.md](68-rz.md) | 1 | 2026-11-10 |
+| Закон № 69-РЗ | [69-rz.md](69-rz.md) | 1 | 2026-11-10 |
 | Закон № 7-РЗ | [7-rz.md](7-rz.md) | 0 |  |
+| Закон № 70-РЗ | [70-rz.md](70-rz.md) | 1 | 2026-11-10 |
+| Закон № 71-РЗ | [71-rz.md](71-rz.md) | 1 | 2026-11-10 |
 | Закон № 8-РЗ | [8-rz.md](8-rz.md) | 0 |  |
 | Закон № 9-РЗ | [9-rz.md](9-rz.md) | 0 |  |
