@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:53:09Z",
+ "generated": "2026-11-25T06:59:32Z",
  "latest": {
   "pravo-karachay-cherkessia|russia/karachay-cherkessia/acts": {
    "attempt": 1,
@@ -13,80 +13,42 @@
    },
    "census": {
     "checked": 1163,
-    "current": 1152,
+    "current": 1163,
     "gone": 0,
-    "held": 1152,
-    "newest_in_repo": "2026-10-30",
-    "pending": 11,
-    "repo": 1152,
+    "held": 1163,
+    "newest_in_repo": "2026-11-10",
+    "pending": 0,
+    "repo": 1163,
     "source_in_scope": 1163
    },
-   "check_id": "ru-pravo-karachay-cherkessia-20261124T134427Z",
-   "commits": {
-    "count": 2,
-    "from": "d63239a07ddbc45cfe9cb0a0bc5efac5c22b6fbb",
-    "to": "4b69ab912eba88dd1ce7ac86db87681648ce9ca5"
-   },
+   "check_id": "ru-pravo-karachay-cherkessia-20261125T053326Z",
+   "commits": null,
    "corpus": "russia/karachay-cherkessia/acts",
    "error": null,
-   "finished": "2026-11-24T13:53:09Z",
+   "finished": "2026-11-25T05:34:14Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region09: 1163 law-type documents listed (every page read); 1152 held here; 11 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region09: 1163 law-type documents listed (every page read); 1163 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "0900202611100001",
-     "0900202611100002",
-     "0900202611100003",
-     "0900202611100004",
-     "0900202611100005",
-     "0900202611100006",
-     "0900202611100007",
-     "0900202611100008",
-     "0900202611100009",
-     "0900202611100010",
-     "0900202611100011"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 11,
+   "requests": 9,
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "0900202611100001",
-     "0900202611100002",
-     "0900202611100003",
-     "0900202611100004",
-     "0900202611100005",
-     "0900202611100006",
-     "0900202611100007",
-     "0900202611100008",
-     "0900202611100009",
-     "0900202611100010",
-     "0900202611100011"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1163 law-type documents in block region09; newest published 2026-11-10",
    "source": "pravo-karachay-cherkessia",
-   "started": "2026-11-24T13:44:27Z",
+   "started": "2026-11-25T05:33:26Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
