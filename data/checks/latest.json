@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:59:32Z",
+ "generated": "2026-11-26T06:16:34Z",
  "latest": {
   "pravo-karachay-cherkessia|russia/karachay-cherkessia/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1163,
     "source_in_scope": 1163
    },
-   "check_id": "ru-pravo-karachay-cherkessia-20261125T053326Z",
+   "check_id": "ru-pravo-karachay-cherkessia-20261126T052954Z",
    "commits": null,
    "corpus": "russia/karachay-cherkessia/acts",
    "error": null,
-   "finished": "2026-11-25T05:34:14Z",
+   "finished": "2026-11-26T05:30:25Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region09: 1163 law-type documents listed (every page read); 1163 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1163 law-type documents in block region09; newest published 2026-11-10",
    "source": "pravo-karachay-cherkessia",
-   "started": "2026-11-25T05:33:26Z",
+   "started": "2026-11-26T05:29:54Z",
    "unexplained": 0,
    "update": {
     "parts": []
